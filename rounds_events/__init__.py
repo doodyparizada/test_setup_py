@@ -2,7 +2,9 @@ import logging
 import voluptuous
 import requests
 
+
 log = logging.getLogger('submitter')
+
 
 def submit(a):
     voluptuous.Schema
